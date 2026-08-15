@@ -78,6 +78,7 @@ Issues and pull requests are welcome.
 [![Request a demo](https://img.shields.io/badge/Request%20a%20demo-7C3AED?style=for-the-badge&labelColor=1A0E2E)](https://sol.parts/lead-request?subject=consultation)
 [![Contact](https://img.shields.io/badge/Contact%20us-1A0E2E?style=for-the-badge)](https://sol.parts/contact)
 [![Helpdesk](https://img.shields.io/badge/Helpdesk-1A0E2E?style=for-the-badge)](https://sol.parts/helpdesk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sol-parts)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/solparts.ua)
 
 <sub>Built in Ukraine 🇺🇦 · <a href="https://sol.parts/">sol.parts</a></sub>
