@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Sol.parts — solutions for selling auto parts online" width="100%">
+<img src="banner_github.png" alt="Sol.parts — solution for selling auto parts" width="100%">
 
 <br>
 
