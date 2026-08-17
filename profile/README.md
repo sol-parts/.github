@@ -62,6 +62,7 @@ Pieces of our stack that are useful outside of it, released under MIT:
 | [**symfony-turbosms-notifier**](https://github.com/sol-parts/symfony-turbosms-notifier) | Symfony Notifier bridge for TurboSMS — SMS and hybrid Viber over the HTTP JSON API |
 | [**payum-contracts**](https://github.com/sol-parts/payum-contracts) | Request primitives and narrow ports shared between a Payum host application and gateway packages |
 | [**payum-privatbank-payparts**](https://github.com/sol-parts/payum-privatbank-payparts) | Payum gateway for PrivatBank PayParts installments, built on the payparts v2 API |
+| [**payum-liqpay**](https://github.com/sol-parts/payum-liqpay) | Payum gateway for LiqPay — hosted checkout redirect and embedded widget, with two-stage payments |
 | [**sol-stimulus-components**](https://github.com/sol-parts/sol-stimulus-components) | Stimulus controllers with no build step: swipe gestures and a dependency-light slideshow, published on npm |
 | [**server-baseline**](https://github.com/sol-parts/server-baseline) | Ansible role and server requirements for running a store on your own server |
 
