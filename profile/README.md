@@ -56,8 +56,14 @@ Pieces of our stack that are useful outside of it, released under MIT:
 
 | Repository | What it does |
 | :-- | :-- |
-| [**symfony-smsfly-notifier**](https://github.com/sol-parts/symfony-smsfly-notifier) | Symfony Notifier bridge for the SMS-fly gateway |
+| [**symfony-smsfly-notifier**](https://github.com/sol-parts/symfony-smsfly-notifier) | Symfony Notifier bridge for the SMS-fly gateway — SMS and Viber |
 | [**symfony-smsclub-notifier**](https://github.com/sol-parts/symfony-smsclub-notifier) | Symfony Notifier bridge for the SmsClub gateway |
+| [**symfony-alphasms-notifier**](https://github.com/sol-parts/symfony-alphasms-notifier) | Symfony Notifier bridge for AlphaSMS — Viber with SMS fallback, balance checks and delivery webhooks |
+| [**symfony-turbosms-notifier**](https://github.com/sol-parts/symfony-turbosms-notifier) | Symfony Notifier bridge for TurboSMS — SMS and hybrid Viber over the HTTP JSON API |
+| [**payum-contracts**](https://github.com/sol-parts/payum-contracts) | Request primitives and narrow ports shared between a Payum host application and gateway packages |
+| [**payum-privatbank-payparts**](https://github.com/sol-parts/payum-privatbank-payparts) | Payum gateway for PrivatBank PayParts installments, built on the payparts v2 API |
+| [**sol-stimulus-components**](https://github.com/sol-parts/sol-stimulus-components) | Stimulus controllers with no build step: swipe gestures and a dependency-light slideshow, published on npm |
+| [**server-baseline**](https://github.com/sol-parts/server-baseline) | Ansible role and server requirements for running a store on your own server |
 
 Issues and pull requests are welcome.
 
