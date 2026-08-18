@@ -64,6 +64,7 @@ Pieces of our stack that are useful outside of it, released under MIT:
 | [**payum-privatbank-payparts**](https://github.com/sol-parts/payum-privatbank-payparts) | Payum gateway for PrivatBank PayParts installments, built on the payparts v2 API |
 | [**payum-liqpay**](https://github.com/sol-parts/payum-liqpay) | Payum gateway for LiqPay — hosted checkout redirect and embedded widget, with two-stage payments |
 | [**payum-monobank**](https://github.com/sol-parts/payum-monobank) | Payum gateway for monobank acquiring (plata by mono) — hosted checkout, two-stage hold payments and signed webhooks |
+| [**payum-monobank-chast**](https://github.com/sol-parts/payum-monobank-chast) | Payum gateway for monobank Chast hire purchase — in-app confirmation and store-side settlement |
 | [**sol-stimulus-components**](https://github.com/sol-parts/sol-stimulus-components) | Stimulus controllers with no build step: swipe gestures and a dependency-light slideshow, published on npm |
 | [**server-baseline**](https://github.com/sol-parts/server-baseline) | Ansible role and server requirements for running a store on your own server |
 
