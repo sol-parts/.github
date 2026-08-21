@@ -31,7 +31,7 @@ Our team has spent **10+ years** building exactly this. Sol.parts is the platfor
 | **Catalog & fitment** | Large nomenclature, cross-references between brands, applicability by vehicle and by category |
 | **Supplier price lists** | Automated imports over email, FTP and API — sell from supplier warehouses without manual uploads |
 | **Order workflow** | Configurable statuses, splitting and merging, reservations, automated stage transitions |
-| **Payments** | LiqPay, plata by mono, NovaPay, Portmone, WayForPay, Hutko — plus monobank / PrivatBank installments and Checkbox fiscal receipts (ПРРО) |
+| **Payments** | LiqPay, plata by mono, NovaPay, RozetkaPay, Portmone, WayForPay, Hutko — plus monobank / PrivatBank installments and Checkbox fiscal receipts (ПРРО) |
 | **Delivery** | Nova Poshta integration — waybills, tracking and shipment documents |
 | **ERP & accounting** | Odoo and Dilovod integrations, plus an open API for in-house ERP/CRM systems |
 | **Marketing & SEO** | SEO module, Google Merchant feed, Google Shopping and Performance Max support |
