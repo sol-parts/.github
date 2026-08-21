@@ -67,6 +67,7 @@ Pieces of our stack that are useful outside of it, released under MIT:
 | [**payum-monobank-chast**](https://github.com/sol-parts/payum-monobank-chast) | Payum gateway for monobank Chast hire purchase — in-app confirmation and store-side settlement |
 | [**payum-novapay**](https://github.com/sol-parts/payum-novapay) | Payum gateway for NovaPay eCommerce acquiring — hosted checkout, hold payments and refunds |
 | [**payum-hutko**](https://github.com/sol-parts/payum-hutko) | Payum gateway for Hutko acquiring on the Fondy-compatible protocol — hosted checkout and preauth holds |
+| [**payum-rozetkapay**](https://github.com/sol-parts/payum-rozetkapay) | Payum gateway for RozetkaPay acquiring — hosted checkout, hold payments and refunds |
 | [**sol-stimulus-components**](https://github.com/sol-parts/sol-stimulus-components) | Stimulus controllers with no build step: swipe gestures and a dependency-light slideshow, published on npm |
 | [**server-baseline**](https://github.com/sol-parts/server-baseline) | Ansible role and server requirements for running a store on your own server |
 
